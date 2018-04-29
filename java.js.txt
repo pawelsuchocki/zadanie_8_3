@@ -1,5 +1,0 @@
-script type=textjavascript charset=utf-8 defer=defer
-
-  treœæ skryptu
-
-script
